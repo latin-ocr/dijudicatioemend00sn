@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dijudicatioemend00sn_0001.png"; bbox 0 0 2555 3297; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2428 0 2548 10">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2428 0 2548 10">
+     <span class='ocr_line' id='line_1_1' title="bbox 2428 0 2548 10; baseline 0 3287"><span class='ocrx_word' id='word_1_1' title='bbox 2428 0 2548 10; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 97 161 425 289">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 97 161 425 289">
+     <span class='ocr_line' id='line_1_2' title="bbox 97 161 425 235; baseline -0.037 -3"><span class='ocrx_word' id='word_1_2' title='bbox 97 161 99 163; x_wconf 27' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_3' title='bbox 255 179 425 235; x_wconf 51' lang='lat' dir='ltr'>mvn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 196 251 392 289; baseline -0.01 2"><span class='ocrx_word' id='word_1_4' title='bbox 196 268 199 279; x_wconf 68' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 309 251 392 289; x_wconf 70' lang='lat'>‚56</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 803 503 1362 555">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 803 503 1362 555">
+     <span class='ocr_line' id='line_1_4' title="bbox 803 503 1362 555; baseline -0.011 -9"><span class='ocrx_word' id='word_1_6' title='bbox 803 507 1153 555; x_wconf 58' lang='grc' dir='ltr'>δὸηῃρῑῦρῖς,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1199 503 1362 543; x_wconf 73' lang='lat' dir='ltr'>Jacob</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 870 633 1663 811">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 870 633 1663 811">
+     <span class='ocr_line' id='line_1_5' title="bbox 870 633 1663 690; baseline -0.013 -10"><span class='ocrx_word' id='word_1_8' title='bbox 870 638 1228 690; x_wconf 61' lang='lat' dir='ltr'>Sijudicatio</span> <span class='ocrx_word' id='word_1_9' title='bbox 1270 633 1663 675; x_wconf 63' lang='lat' dir='ltr'>emendationum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 874 701 1493 757; baseline -0.013 -11"><span class='ocrx_word' id='word_1_10' title='bbox 874 704 1194 757; x_wconf 60' lang='lat' dir='ltr'>systematis</span> <span class='ocrx_word' id='word_1_11' title='bbox 1239 701 1493 742; x_wconf 71' lang='lat' dir='ltr'>sexualis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 874 772 1126 811; baseline -0.004 -1"><span class='ocrx_word' id='word_1_12' title='bbox 874 772 1126 811; x_wconf 65' lang='lat' dir='ltr'>Linneani</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 3270 2548 3297">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 3270 2548 3297">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 3270 2548 3297; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 3270 2548 3297; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
